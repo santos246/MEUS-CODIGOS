@@ -14,9 +14,7 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3pro.css">
 <body>
@@ -65,7 +63,7 @@
 &lt;html lang="pt-br"&gt;<br/>
  
 &lt;head&gt;<br/>
- 
+ <head>
 &lt;meta charset="utf-8"&gt;<br/>
  
 &lt;title&gt;TÍTULO&lt;/title&gt;<br/>
