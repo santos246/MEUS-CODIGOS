@@ -59,15 +59,25 @@
 <p><li><FONT COLOR="red"><a name="Exemplo da estrutura">Exemplo da estrutura<br/></FONT></li></p>
 <!------------------------------------------------------------------------------------------>
 <FONT COLOR="#0000FF">
+ 
 &lt;!doctype html&gt;<br/>
+ 
 &lt;html lang="pt-br"&gt;<br/>
+ 
 &lt;head&gt;<br/>
+ 
 &lt;meta charset="utf-8"&gt;<br/>
+ 
 &lt;title&gt;TÍTULO&lt;/title&gt;<br/>
+ 
 &lt;link rel="sortcut icon" href="IMAGEM" type="image/gif" /&gt;<br/>
+ 
 &lt;meta name="author" content="santos.12164@hotmail.com"&gt;<br/>
+ 
 &lt;meta name="description" content="DESCRIÇÃO SOBRE O SITE"&gt;<br/>
+ 
 &lt;meta name="keywords" content="tang, tang, tang"&gt;<br/>
+ 
 &lt;CENTER&gt;<br/>
 
 
